@@ -60,7 +60,7 @@ function printResult(student: Student): void {
 }
 
 function main(): void {
-  const spartan = createStudent('Spartan', 30, 95, 89, 92, 85, 97);
+  const spartan = createStudent("Spartan", 30, 95, 89, 92, 85, 97);
   printResult(spartan);
 }
 
